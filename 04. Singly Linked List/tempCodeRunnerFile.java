@@ -1,2 +1,0 @@
-
-			tempNode.next = node;
